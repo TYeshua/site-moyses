@@ -1,0 +1,19 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Corrida de Vetores",
+      "category": "Cinemática",
+      "rating": 4.8,
+      "url": "https://example.com/game1"
+    },
+    {
+      "id": 1771127755715,
+      "name": "fisica 1",
+      "category": "Cinemática",
+      "rating": 5,
+      "url": "https://fisicagames.com.br/index.php/2025/01/17/pendulum-goal/",
+      "color": "bg-space-700"
+    }
+  ]
+}

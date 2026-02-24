@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: theme('colors.space.900');
+    color: theme('colors.gray.100');
+    @apply font-sans min-h-screen;
+    background-image:
+      radial-gradient(circle at 10% 20%, rgba(176, 38, 255, 0.1) 0%, transparent 20%),
+      radial-gradient(circle at 90% 80%, rgba(0, 240, 255, 0.1) 0%, transparent 20%);
+  }
+
+  ::selection {
+    background-color: theme('colors.neon.blue');
+    color: theme('colors.space.900');
+  }
+}
+
+.glass-panel {
+  @apply bg-surface-dark backdrop-blur-md border border-white/10 shadow-xl;
+}
+
+.neon-text {
+  text-shadow: 0 0 10px rgba(0, 240, 255, 0.5);
+}
+
+.hover-glow {
+  @apply transition-all duration-300;
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 20px rgba(0, 240, 255, 0.3);
+  transform: translateY(-2px);
+}

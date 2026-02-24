@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Ensino de Cinemática com Vídeoanálise",
+      "author": "Prof. Carlos Mendes",
+      "date": "15 Jan 2024",
+      "abstract": "Como o uso de softwares de rastreamento de vídeo (como Tracker) auxilia na compreensão...",
+      "url": "https://example.com/article1"
+    },
+    {
+      "id": 1771127492940,
+      "title": "artigo texte",
+      "author": "eu",
+      "date": "15/02/2026",
+      "abstract": "rgbetybtbetbt",
+      "url": "https://www.even3.com.br/anais/iii-congresso-amazonida-marajoara-de-matematica/1196560-reflexoes-teorico-metodologicas-sobre-o-ensino-de-fisica--um-olhar-a-partir-de-percepcoes-docentes/"
+    },
+    {
+      "id": 1771127566034,
+      "title": "real",
+      "author": "ervrr3tvrtevt",
+      "date": "15/02/2026",
+      "abstract": "vrtbvrtbrtbtrb",
+      "url": "https://www.even3.com.br/anais/iii-congresso-amazonida-marajoara-de-matematica/1196560-reflexoes-teorico-metodologicas-sobre-o-ensino-de-fisica--um-olhar-a-partir-de-percepcoes-docentes/"
+    },
+    {
+      "id": 1771127712531,
+      "title": "wrhgrthrhr",
+      "author": "35h35yth5yh5y3h",
+      "date": "15/02/2026",
+      "abstract": "456yh56yh5h5y5h",
+      "url": "https://www.even3.com.br/anais/iii-congresso-amazonida-marajoara-de-matematica/1196560-reflexoes-teorico-metodologicas-sobre-o-ensino-de-fisica--um-olhar-a-partir-de-percepcoes-docentes/"
+    }
+  ]
+}
