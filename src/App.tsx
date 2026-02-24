@@ -21,7 +21,7 @@ const PrivateRoute = ({ children }: { children: React.ReactNode }) => {
 function App() {
   return (
     <AuthProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/site-moyses">
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/register" element={<Register />} />
